@@ -21,7 +21,7 @@ O objetivo é **prever a espécie da flor** com base em quatro características:
 - Scikit-learn
 
 ## Como rodar
-1. Abra o notebook `01-introducao-ml.ipynb` no Google Colab.  
+1. Abra o notebook `02-introducao-ml.ipynb` no Google Colab.  
 2. Execute as células na ordem apresentada.  
 3. Confira a acurácia do modelo e a matriz de confusão.  
 
